@@ -47,7 +47,7 @@
 3. After modifying above three arguemtns, run the following commands for each Track. Then, the result images will be created. (ex, challenge\experiments\Track1\results\)
 
 ### Track 1:
-python get_sr.py --model=mdsr_mod5 --restore_path=your_directory\challenge\experiments\Track_1\model_200000.pth --input_path=your_directory\challenge\data\TestLRX2\TestLR --scale=2 --edsr_res_blocks=80 --output_path=your_directory\challenge\experiments\Track_1\results --cuda_device=0  --self_ensemble --chop_forward 
+python get_sr.py --model=mdsr_mod5 --restore_path=your_directory\challenge\experiments\Track_1\model_200000.pth --input_path=your_directory\challenge\data\TestLRX2\TestLR --scale=2 --edsr_res_blocks=80 --output_path=your_directory\challenge\experiments\Track_1\results --cuda_device=0 --chop_forward 
 
 ### Track 2:
 python get_sr.py --model=mdsr_mod5 --restore_path=your_directory\challenge\experiments\Track_2\model_200000.pth --input_path=your_directory\challenge\data\TestLRX3\TestLR --scale=3 --edsr_res_blocks=80 --output_path=your_directory\challenge\experiments\Track_2\results --cuda_device=0  --self_ensemble --chop_forward 
