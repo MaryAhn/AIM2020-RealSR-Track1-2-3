@@ -20,8 +20,8 @@
 	- utils: folder containing utlity
 		- image_utils.py: some functions for processing data
 	- model: folder which contain models
-		-base.py: base for model
-		-mdsr_mod5: our model
+		- base.py: base for model
+		- mdsr_mod5: our model
 	- train_queued.py: for training models
 	- get_sr.py: for acquring result images
 
