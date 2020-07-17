@@ -9,6 +9,7 @@
 - math
 - os
 - argparse
+- cv2
 - torch.nn
 - torch.optim
 - torch.nn.functional
