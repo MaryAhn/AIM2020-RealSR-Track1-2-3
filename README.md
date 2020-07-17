@@ -36,7 +36,7 @@
 	- Track3
 
 ## How To Use
-1. --device=0: It is device selection in case of multiple GPU. If you have only one GPU, just set it to 0.
+1. --cuda_device=0: It is device selection in case of multiple GPU. If you have only one GPU, just set it to 0.
 2. --input_path, --output_path, --restore_path: you have to change 'your_directory' part in each argument to suit your environment.
 3. After modifying above three arguemtns, run the following commands for each Track. Then, the result images will be created. (ex, challenge\experiments\Track1\results\)
 
