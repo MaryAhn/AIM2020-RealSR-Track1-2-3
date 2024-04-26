@@ -1,7 +1,8 @@
 # AIM 2020 Real Image Super-Resolution Challenge (Track1, Track2, Track3)
-- Keon-Hee Ahn, MCML group, Yonsei University, South Korea
+- paper: [Wei, Pengxu, et al. "AIM 2020 challenge on real image super-resolution: Methods and results." Computer Vision–ECCV 2020 Workshops: Glasgow, UK, August 23–28, 2020, Proceedings, Part III 16. Springer International Publishing, 2020.](https://arxiv.org/pdf/2009.12072)
+- Keon-Hee Ahn, MCML group, Yonsei University, South Korea (As undergraduate reaserach intern)
 - email: khahn196@gmail.com
-- If you have any questions, please contact me through above email
+- If you have any questions, please feel free to contact me through the above email
 
 ## Requirements
 - pytorch-gpu 
